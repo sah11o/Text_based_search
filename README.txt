@@ -15,8 +15,7 @@
 
 
 Team Members:
-2014A7PS056H,K Jaihindh Reddy
-2014A7PS069H,S Tharun Reddy
-2014A7PS092H,K Akhil Chakravarthy
-2014A7PS179H,P Vishal Reddy
-2014AAPS264H,C Nikhil Reddy
+Hanvitha Reddy Donthireddy
+Mokshavi Reddy Aluka
+Mahika Polepalli
+Chalamalla Sahithi
